@@ -1,8 +1,7 @@
 # CODSOFT
 
 TASK_1: Credit Card Fraud Detection
-
-DATASET: [Link](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
+[Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
 
 TASK_2: Customer Churn Prediction
 [Dataset](https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction)
